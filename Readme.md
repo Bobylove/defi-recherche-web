@@ -48,7 +48,28 @@ Qwant est un moteur de recherche francais, créé le 16 février 2013, puis lanc
 
 C'est le nouveau google français !
 
+[Sources](https://www.qwant.com/privacy)
+
+[sources wiki](https://fr.wikipedia.org/wiki/Qwant)
+
+[Sources Korben](http://korben.info/qwant-mon-retour-apres-1-mois-de-test.html)
+
 *** 
+***
+***
+
+
+# Qui est Steve Wozniak ?
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Steve_Wozniak.jpg/220px-Steve_Wozniak.jpg)
+
+
+Il es cofondateur de la société Apple computer avec steve jobs et ronald wayne,  et concepteur des premiers Apple , et l'un des pionniers de l'industrie micro informatique.
+
+
+> "Le garage est un peu un mythe. Nous n'y avons rien conçu, pas de maquette, pas de prototype ou de planification de produits. Nous n'y avons rien fabriqué. Le garage ne servait pas à grand-chose, si ce n'est à nous sentir chez nous."
+
+
 
 
 
