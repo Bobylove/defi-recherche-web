@@ -27,6 +27,34 @@ Une petite anecdote.. elle fut aussi témoin de  la premiere panne informatique 
 
 
 
+***
+***
+***
+
+
+# Qu'est-ce que Qwant ?
+
+***
+![](http://img.generation-nt.com/qwant-logo_0096006401622381.png)
+
+
+
+Qwant est un moteur de recherche francais, créé le 16 février 2013, puis lancé en version définitive le 4 juillet 2013.
+
+>Il respect la vie privée des utilisateurs 
+
+>neutre dans l'affichage des résultats .
+
+
+C'est le nouveau google français !
+
+*** 
+
+
+
+
+
+
 
 
 
